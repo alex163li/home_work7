@@ -12,5 +12,5 @@
 ***
 ## Блок-схема
 
-![блок-схема](https://drive.google.com/file/d/1pExVNlElTylpK1uf-AZ6UL-Jf4p7-Bpo/view?usp=share_link)
+![блок-схема](https://github.com/alex163li/home_work7/blob/main/cхема.jpg)
 
