@@ -8,7 +8,7 @@
 - Анна Сочнева (@annasoc)- модуль start, menu interface, add contact.
 - Дмитрий Бидюк (@Diaman21) - модуль controller, show contact.
 - Алексей Лялин (@AlexLi193)- модуль search contact, user interface.
-- Совместная работа файл readme 
+- Виктория Мордвинова (@vikivrazovski)- файл readme, блок-схема. 
 ***
 ## Блок-схема
 
